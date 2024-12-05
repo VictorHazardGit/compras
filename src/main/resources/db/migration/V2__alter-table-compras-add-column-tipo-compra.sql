@@ -1,0 +1,1 @@
+alter table compras add tipo_compra varchar (20) not null

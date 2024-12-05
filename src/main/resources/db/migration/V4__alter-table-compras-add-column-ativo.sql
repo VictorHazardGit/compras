@@ -1,0 +1,1 @@
+alter table compras add ativo tinyint default 1 not null
